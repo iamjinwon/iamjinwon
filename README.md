@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Jinwon Lee 👋
 
-<!--
-**iamjinwon/iamjinwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 **About Me**  
+- 🎓 Studying at **Pukyong National University**  
+- 💼 Member of **TeamLab**  
+- 🌱 Aspiring **AI Engineer**  
+- 🎂 25 years old  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ **Let's Connect!**  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/%EC%A7%84%EC%9B%90-%EC%9D%B4-71a866338/)
+- 💼 [Portfolio](https://www.notion.so/Jinwon-Lee-1411a6126ccc8001827ed9436345f835?pvs=4) 
+
+🚀 Always excited to explore and create amazing AI projects!
+
