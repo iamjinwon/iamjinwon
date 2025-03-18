@@ -2,9 +2,8 @@
 
 🌟 **About Me**  
 - 🎓 Studying at **Pukyong National University**  
-- 💼 Member of **TeamLab**  
 - 🌱 Aspiring **AI Engineer**  
-- 🎂 25 years old  
+- 🎂 26 years old  
 
 ---
 
